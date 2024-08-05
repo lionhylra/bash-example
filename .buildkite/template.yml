@@ -3,4 +3,4 @@ description: "An example repository you can use as a test project with Buildkite
 emoji: ":bash:"
 steps:
   - command: "buildkite-agent pipeline upload"
-    label: ":pipeline:"
+    label: ":pipeline: hahahaha"
